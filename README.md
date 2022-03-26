@@ -25,5 +25,5 @@ Java döngüler ile tek bir sayı girilene kadar kullanıcıdan girişleri kabul
           } while(n % 2 == 0);
 
           System.out.println("Sum: " + sum);
-          }
+        }
       }
